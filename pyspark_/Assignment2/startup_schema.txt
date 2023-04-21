@@ -1,0 +1,14 @@
+create table startup
+(
+sr_no int,
+date varchar(30),
+startup_name varchar(50),
+industry_vertical varchar(50),
+subvertical varchar(50),
+city varchar(50),
+investors_name varchar(100),
+investment_type varchar(50),
+amount varchar(40),
+remark varchar(40),
+startup_name_processed varchar(50)
+);

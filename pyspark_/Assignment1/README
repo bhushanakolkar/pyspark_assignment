@@ -1,0 +1,12 @@
+Requirements::
+python3.7
+
+
+-To execute pyspark.sh give it two following argument
+First argument : Path of pyspark_assignment.py file
+Second argument : Path of csv file 
+
+
+**In clean_data directory has preprocessed data.
+**After executing pyspark.sh it will save output in directory tmp/output/ of present working directory(pwd).
+**In tmp/output/ directory has output of each query.
